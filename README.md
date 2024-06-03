@@ -14,7 +14,7 @@
 - 👨‍💻 I'm a Front-end developer
 - 🏢 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
-
+- 🌱 Taking each step coolly and enjoying the ride of hands-on learning! 
 
 
 ### Connect with Me :
