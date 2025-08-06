@@ -8,8 +8,11 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data engineer%20web%20Big Data & ETL Focused;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Entry-Level+Data+Engineer;Big+Data+%26+ETL+Focused;Always+learning+new+things" alt="Typing SVG" />
+  </a>
+</p>
+
 
 - 👨‍💻 I'm a Entry-Level Data Engineer | Big Data & ETL Focused
 - 🏢 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
