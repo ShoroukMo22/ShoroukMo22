@@ -9,13 +9,13 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Entry-Level+Data+Engineer;Big+Data+%26+ETL+Focused;Always+learning+new+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Data+Engineer;Big+Data+%26+ETL+Focused;Always+learning+new+things" alt="Typing SVG" />
   </a>
 </p>
 
 
-- 👨‍💻 I'm a Entry-Level Data Engineer | Big Data & ETL Focused
-- 🏢 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 I'm a Data Engineer | Big Data & ETL Focused
+- 🏢 As a CS student (information system dapartment), I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, and ReactJS or anything related to data managment.
 - 🌱 Taking each step coolly and enjoying the ride of hands-on learning! 
 
